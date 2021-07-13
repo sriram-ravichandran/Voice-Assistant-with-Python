@@ -50,5 +50,5 @@ To Suggest Some movies:
   
 To Close the Application:
 	Example : Close
-		        Exit
-		        Shut down
+		  Exit
+		  Shut down
